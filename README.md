@@ -67,7 +67,7 @@ epochs = 2000
 During training, the model:
 
 1. Calculates predictions.
-2. Calculates the MSE loss.
+2. Calculates the MAE loss.
 3. Computes the gradients.
 4. Updates the weights.
 5. Stores the error history.
